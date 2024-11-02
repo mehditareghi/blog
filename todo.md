@@ -1,0 +1,13 @@
+# Todo List
+- [x] update favicons
+- [x] add your info instead of the current writer
+- [x] update About page
+- [x] update youtube channel's username
+- [x] update social media links
+- [x] remove previous blog posts
+- [x] update Projects page
+- [ ] publish on Vercel
+- [ ] update subdomain address
+- [ ] connect google analytics
+- [ ] connect google search console
+- [ ] update README.md
