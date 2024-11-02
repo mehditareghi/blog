@@ -2751,7 +2751,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@next/third-parties@npm:^15.0.2":
+"@next/third-parties@npm:latest":
   version: 15.0.2
   resolution: "@next/third-parties@npm:15.0.2"
   dependencies:
@@ -11393,7 +11393,7 @@ __metadata:
   dependencies:
     "@headlessui/react": 1.7.19
     "@next/bundle-analyzer": 14.2.3
-    "@next/third-parties": ^15.0.2
+    "@next/third-parties": latest
     "@svgr/webpack": ^8.0.1
     "@tailwindcss/forms": ^0.5.7
     "@tailwindcss/typography": ^0.5.12
