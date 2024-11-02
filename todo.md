@@ -6,8 +6,8 @@
 - [x] update social media links
 - [x] remove previous blog posts
 - [x] update Projects page
-- [ ] publish on Vercel
-- [ ] update subdomain address
+- [x] publish on Vercel
+- [x] update subdomain address
 - [ ] connect google analytics
 - [ ] connect google search console
 - [ ] update README.md
