@@ -6,7 +6,7 @@ const siteMetadata = {
   description: 'Insights and tutorials on modern web development',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://mehditareghi.com',
+  siteUrl: 'https://mehditareghi.vercel.app',
   siteRepo: 'https://github.com/mehditareghi/blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
